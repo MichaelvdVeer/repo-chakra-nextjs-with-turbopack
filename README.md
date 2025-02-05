@@ -62,6 +62,7 @@ npm run dev
 ```
 
 Check the console; a hydration error will appear.
+Somethimes you may need to refresh multiple times to see the error appear.
 
 ### 5. Disable Turbopack
 
